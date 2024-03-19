@@ -1,11 +1,7 @@
+import Body from "./Components/Body";
+
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <h1 className="text-green-600 font-bold">Creating netflix clone</h1>
-      </header>
-    </div>
-  );
+  return <Body />;
 }
 
 export default App;
