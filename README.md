@@ -17,8 +17,12 @@ Episode 14 - NetflixGPT - The Beginning
 - 55:35 - Login form
 - 01:10:10 - Create a Sign up form
 - 01:23:00 - “formik” library for forms
-  01:27:10 - Part -3
-- Form Validation
+
+### 01:27:10 - Part -3
+
+- Form Validation -- `We validitate a form by 2 way.
+1st is by maintaing the state and pass the value of the input field.
+2nd is by useref.`
 - useRef hook
 - 01:34:00 - Regex validation
 - useRef hook usage
