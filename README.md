@@ -27,16 +27,31 @@ Episode 14 - NetflixGPT - The Beginning
 - 01:34:00 - Regex validation
 - useRef hook usage
 - Showing error message while log in
-  01:57:35 - Part - 4
+
+### 01:57:35 - Part - 4
+
 - Authentication
-- Firebase
+- Firebase -- `By using firebase we authrnticate our app.`
+
+#### FireBase setup -
+
+1. Get started our app and give name of project.
+2. Our app fire base created.
+3. Go to web (<>) logo and follow the steps.
+
+- install the firebase in our app by using `npm install firebase`
+- create a file firebase.js in util folder for configration and copy and paste the code that is in firebase.
+- In last run this command `npm install -g firebase-tools`
+
 - 02:14:00 - Build command
 - 02:14:52 - Deploying
 - 02:16:35 - 3 commands to deploy application
 - 02:21:00 - Create Signup user account
 - Reading Firebase Documentation
 - 02:28:00 - Sign-in/ Sign-up Logic
+
   02:29:46 - Part - 5
+
 - 02:39:00 to 02:42:00 - User successfully registered
 - 02:43:20 - Sign in logic
 - 02:50:00 - Firebase error - user not found
