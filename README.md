@@ -50,12 +50,13 @@ Episode 14 - NetflixGPT - The Beginning
 - Reading Firebase Documentation
 - 02:28:00 - Sign-in/ Sign-up Logic
 
-  02:29:46 - Part - 5
+### 02:29:46 - Part - 5
 
 - 02:39:00 to 02:42:00 - User successfully registered
 - 02:43:20 - Sign in logic
 - 02:50:00 - Firebase error - user not found
-  02:52:05 - Part - 6
+  
+  ### 02:52:05 - Part - 6
 - Setup Redux store, userSlice
 - 03:12:20 - useDispatch()
 - 03:20:20 - useNavigate()
